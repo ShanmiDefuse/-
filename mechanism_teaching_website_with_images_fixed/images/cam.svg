@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="520" viewBox="0 0 900 520">
+<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#eef8ff"/><stop offset="1" stop-color="#fff7dc"/></linearGradient><filter id="shadow"><feDropShadow dx="0" dy="8" stdDeviation="5" flood-opacity="0.20"/></filter></defs>
+<rect width="900" height="520" rx="28" fill="url(#bg)"/>
+<rect x="28" y="28" width="844" height="464" rx="22" fill="white" opacity=".72"/>
+<text x="56" y="74" font-family="Arial, 'Microsoft JhengHei', sans-serif" font-size="34" font-weight="700" fill="#263238">凸輪 Cam</text>
+<text x="56" y="112" font-family="Arial, 'Microsoft JhengHei', sans-serif" font-size="20" fill="#546e7a">用特殊輪廓控制推桿產生週期動作</text>
+<g filter="url(#shadow)"><path d="M330 255 C330 150 455 120 510 200 C610 210 630 335 515 365 C430 455 300 365 330 255 Z" fill="#ce93d8" stroke="#263238" stroke-width="6"/><circle cx="455" cy="285" r="26" fill="#fff" stroke="#263238" stroke-width="5"/><rect x="620" y="160" width="70" height="210" rx="14" fill="#b2dfdb" stroke="#263238" stroke-width="6"/><circle cx="655" cy="365" r="26" fill="#fff" stroke="#263238" stroke-width="5"/><path d="M655 160 V105" stroke="#263238" stroke-width="10" stroke-linecap="round"/><path d="M625 105 h60" stroke="#263238" stroke-width="10" stroke-linecap="round"/><path d="M535 315 C570 340 590 355 625 365" fill="none" stroke="#455a64" stroke-width="8" stroke-dasharray="13 13"/><text x="220" y="430" font-size="26" font-family="Arial, Microsoft JhengHei" fill="#263238">輪廓不同，推桿升降節奏也不同</text></g>
+</svg>
