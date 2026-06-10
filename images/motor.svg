@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="520" viewBox="0 0 900 520">
+<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#eef8ff"/><stop offset="1" stop-color="#fff7dc"/></linearGradient><filter id="shadow"><feDropShadow dx="0" dy="8" stdDeviation="5" flood-opacity="0.20"/></filter></defs>
+<rect width="900" height="520" rx="28" fill="url(#bg)"/>
+<rect x="28" y="28" width="844" height="464" rx="22" fill="white" opacity=".72"/>
+<text x="56" y="74" font-family="Arial, 'Microsoft JhengHei', sans-serif" font-size="34" font-weight="700" fill="#263238">馬達 Motor</text>
+<text x="56" y="112" font-family="Arial, 'Microsoft JhengHei', sans-serif" font-size="20" fill="#546e7a">提供模型運動來源，可搭配減速機構</text>
+<g filter="url(#shadow)"><rect x="210" y="195" width="250" height="150" rx="26" fill="#90caf9" stroke="#263238" stroke-width="6"/><rect x="460" y="240" width="180" height="60" rx="30" fill="#cfd8dc" stroke="#263238" stroke-width="6"/><circle cx="335" cy="270" r="50" fill="#e3f2fd" stroke="#263238" stroke-width="6"/><path d="M335 220 v100 M285 270 h100" stroke="#1976d2" stroke-width="10"/><path d="M650 270 h90" stroke="#263238" stroke-width="10" stroke-linecap="round"/><path d="M160 230 c-50 25 -50 65 0 90" fill="none" stroke="#ff7043" stroke-width="8"/><text x="205" y="420" font-size="26" font-family="Arial, Microsoft JhengHei" fill="#263238">馬達將電能轉為旋轉動力</text></g>
+</svg>
